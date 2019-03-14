@@ -72,9 +72,5 @@ module.exports = {
   corePlugins: {
   },
   plugins: [
-    require('./plugins/container')({
-      // center: true,
-      // padding: '1rem',
-    }),
   ],
 }
